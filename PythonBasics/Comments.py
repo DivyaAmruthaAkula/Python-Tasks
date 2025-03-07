@@ -1,4 +1,5 @@
-# This is a SingleLine Comments.
+#Write a program for a single line comment and multi-line comments.
+#  This is a SingleLine Comments.
 '''
 This 
 is 
